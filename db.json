@@ -1,0 +1,23 @@
+{
+    "website-content": [
+        {
+            "type":"container",
+            "name" : "Sobre La Bodega",
+            "description" : "Es una bodega diferente, divertida y única; en ella encontrarás los mejores vinos envasados bajo una etiqueta que siempre provoca una carcajada. Un vino de calidad garantizada con un sabor excepcional pero etiquetado con el humor que nos caracteriza, porque en la Bodega del Humor, buscamos siempre el lado positivo de la vida, con la confianza que ofrece enfrentarse a cualquier acontecimiento siempre con una sonrisa. Con nuestros vinos la risa y el buen ambiente están garantizados, brindamos por disfrutar de la vida con humor. <strong>¿TE APUNTAS?</strong>",
+            "resourceType" : "image",
+            "resourceUrl" : "https://www.cocinayvino.com/wp-content/uploads/2018/01/26772685_ml.jpg"
+        },
+        {
+            "type": "info",
+            "name" : "Nuestros mejores momentos",
+            "description" : "Ríete con nosotros con la reacción de algunos clientes."
+        },
+        {
+            "type":"container",
+            "name" : "Tomas Falsas",
+            "description" : "Margarita nos hace reír a todos con su sutileza. Creemos que está buscando trabajo...",
+            "resourceType" : "video",
+            "resourceUrl" : "./img/intro.mov"
+        }
+    ]
+}
