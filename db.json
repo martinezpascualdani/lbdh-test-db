@@ -21,6 +21,13 @@
         }
     ],
 
+    "header-text": {
+        "title": "Bienvenido a La Bodega del Humor",
+        "description": "Conoce nuestra bodega y partete de risa",
+        "btnText": "Ir a la tienda",
+        "btnUrl": "https://labodegadelhumor.es"
+    },
+
     "header-buttons": [
         {"title": "Tienda", "url": ""},
         {"title": "Contacto", "url": ""}
