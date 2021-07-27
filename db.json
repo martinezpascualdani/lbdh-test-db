@@ -19,5 +19,10 @@
             "resourceType" : "video",
             "resourceUrl" : "./img/intro.mov"
         }
+    ],
+
+    "header-buttons": [
+        {"title": "Tienda", "url": ""},
+        {"title": "Contacto", "url": ""}
     ]
 }
